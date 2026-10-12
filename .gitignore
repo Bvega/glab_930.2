@@ -1,0 +1,22 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local environment and editor files
+.env
+.env.*
+.vscode/
+.idea/
+
+# Microsoft Office temporary lock files
+~$*.docx
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temporary render/extraction output
+tmp/
+
